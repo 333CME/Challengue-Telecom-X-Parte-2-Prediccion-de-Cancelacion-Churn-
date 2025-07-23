@@ -12,7 +12,7 @@ inicial de modelado:
   - Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.  
 
 ## 3.- **ESTRUCTURA INICIAL DEL PROYECTO:**  
-  - Archivo Readme md para introduccipon del proyecto 
+  - Archivo Readme md para introducción del proyecto 
   - Archivo con los Datos tratados: datos_tratados.csv  
   - Notebook Google Colab principal para realizar los análisis (telecom_x_parte_2.ipynb):  
       - Revisión preliminar de los datos tratados.
