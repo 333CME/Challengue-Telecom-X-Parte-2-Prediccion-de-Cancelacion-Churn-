@@ -3,7 +3,7 @@
 Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
 La empresa quiere anticiparse al problema de la cancelación, y se debe construir un pipeline robusto para esta etapa
 inicial de modelado:  
-## 2.- ** OBJETIVOS DEL DESAFÍO  
+## 2.- **OBJETIVOS DEL DESAFÍO**  
   - Preparar los datos para el modelado (tratamiento, codificación, normalización).  
   - Realizar análisis de correlación y selección de variables.  
   - Entrenar dos o más modelos de clasificación.  
