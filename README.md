@@ -26,7 +26,7 @@ inicial de modelado:
       - Gráficos
       - Tablas con la información del data frame
       - Correlación
-      - Variables seleccionadas
+      - Variables explicativas seleccionadas
       - Separación de datos en: entrenamiento(train), prueba(test) y validación(val)
       - Modelos utlizados
       - Métricas obtenidas
